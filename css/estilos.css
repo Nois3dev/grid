@@ -1,0 +1,15 @@
+div.ejercicio1 {
+  background-color: rgb(215, 29, 215);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(7, 1fr);
+  gap: 5px;
+  font-size: 14px;
+  text-align: center;
+}
+
+div {
+  background-color: rgba(226, 226, 0, 0.82);
+  padding: 5px;
+}
